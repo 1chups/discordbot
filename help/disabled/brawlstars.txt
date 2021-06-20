@@ -1,0 +1,7 @@
+`{p}verify` - привязка аккаунта Brawl Stars
+`{p}unverify` - отвязать аккаунт Brawl Stars
+`{p}brawl-profile` - посмотреть свой / чужой профиль
+`{p}brawl-config` - текущие настройки ветви Brawl Stars
+`{p}verify-role` - сделать роль, выдающуюся за привязку аккаунта
+`{p}add-club-role` - добавить роль клуба BS
+`{p}remove-club-role` - убрать роль клуба BS

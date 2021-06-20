@@ -1,0 +1,8 @@
+pip
+Pymoe
+pillow
+pymongo
+dnspython
+discord.py
+asyncio
+memory_profiler

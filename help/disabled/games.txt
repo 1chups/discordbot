@@ -1,0 +1,4 @@
+`{p}work` - работа
+`{p}roulette` - рулетка
+`{p}lottery` - лотерея
+`{p}black-jack` - Блэк Джек
