@@ -1,3 +1,5 @@
+![Header]()
+
 # Discord Bot by r00tz
 
 
