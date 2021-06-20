@@ -1,4 +1,4 @@
-# discordbot
+# Discord Bot by r00tz
 
 
 ![Discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord)
