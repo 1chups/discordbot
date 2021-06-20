@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://github.com/1chups/discordbot/blob/main/assets/shapka2.png)
 
 # Discord Bot by r00tz
 
